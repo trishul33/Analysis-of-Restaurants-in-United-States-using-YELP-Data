@@ -1,5 +1,7 @@
 # Analysis-of-Restaurants-in-United-States-using-YELP-Data
 
+http://rpubs.com/trishul/YELP
+
 Shifting demographics and changing lifestyles are driving the surge in food-service businesses. Busy consumers don’t have the time or inclination to cook. They want tasty, nutritious meals without dishes to wash. More and more singles, working parents and elderly people are demanding greater convenience when it comes to buying their meals. The future looks bright for the food-service industry overall. In order to start understanding what makes a good restaurant, I planned to do a market research analysis of restaurants in United states.
 
 In order to conduct the market analysis, I am making use of the YELP dataset which is a subset of Yelp’s businesses, reviews, and user data.It was originally put together for the Yelp Dataset Challenge to give a chance for students to conduct research or analysis on Yelp’s data and share their discoveries. Below are the proposed approach/analytic technique to conduct the analysis.
